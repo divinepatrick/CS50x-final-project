@@ -79,7 +79,7 @@ To run this Chrome extension on your local computer, follow these steps:
 1. **Clone or Download the Repository**:
    - Clone the repository using Git:
      ```bash
-     git clone https://github.com/your-username/blocksite-ext.git
+     git clone https://github.com/divinepatrick/CS50x-final-project.git
      ```
    - Alternatively, download the repository as a ZIP file and extract it to a folder on your computer.
 
