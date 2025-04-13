@@ -1,0 +1,22 @@
+{
+    "manifest_version": 3,
+    "name": "Focused",
+    "version": "1.0",
+    "description": "A productivity extension to block distracting websites.",
+    "permissions": ["storage", "activeTab"],
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": "images/icon16.png"
+    },
+        "content_scripts": [
+        {
+            "matches": ["<all_urls>"],
+            "js": ["Content.js"]
+        }
+    ],
+    "icons": {
+        "16": "images/icon16.png",
+        "48": "images/icon48.png",
+        "128": "images/icon128.png"
+    }
+}
