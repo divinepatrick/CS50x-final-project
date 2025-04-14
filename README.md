@@ -1,6 +1,8 @@
 # Focused - Website Blocker
 
-## Overview
+#### Video Demo: <https://youtu.be/JGvhTzZZ0Z4?si=d1iaGdOyQvLG-8pZ>
+
+## Description
 
 **Focused** is a Chrome extension designed to help users stay productive by blocking distracting websites. The extension allows users to manually add websites to a blocklist, quickly block popular social media sites, and even schedule specific times during which distractions are blocked. When a user attempts to visit a blocked website, they are greeted with a motivational message and a visually appealing "Focus Mode" page to encourage them to stay on tra…rse, showcasing my understanding of web development, JavaScript, and Chrome extension APIs.
 
