@@ -43,7 +43,7 @@ This file is a content script that runs on all web pages. Its primary purpose is
 - **Custom HTML and CSS**: Dynamically generates and injects a visually appealing "Focus Mode" page, complete with animations and a "Go Back" button.
 - **Blocklist Integration**: Fetches the blocklist from Chrome's `storage.sync` and checks if the current website matches any of the entries.
 
-This file demonstrates my ability to manipulate the DOM and dynamically inject content into web pages, as well as my understanding of Chrome's content script capabilities.
+This file demonstrates my ability to manipulate the DOM and dynamically inject content into web pages, as well as my understanding of Chrome's content script capabilitis.
 
 ---
 
